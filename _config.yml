@@ -1,5 +1,5 @@
 # --- Theme Configuration --- #
-theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # --- Required options --- #
 
