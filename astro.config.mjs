@@ -6,5 +6,10 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://astrofy-template.netlify.app',
-  integrations: [mdx(), sitemap(), tailwind()]
+  integrations: [mdx(), sitemap(), tailwind()],
+  i18n: {
+    locales: ['en', 'pt-BR'],
+    defaultLocale: 'en',
+  }
 });
+
