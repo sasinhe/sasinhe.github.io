@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Professional Website for Sasa Salmen: including bio, publications, and experience. Also includes services such as private classes, freelancer data science and programming.'
+    twitter: '1sasinhe'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'google-site-verification=S6QoIgQQUCF58Ol8u6lToEMtduybRZ1BaklKMxoCbuE'
     baidu: ''
 
 # Site header
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Sasa Salmen"
 
 # Site footer
 footer:
