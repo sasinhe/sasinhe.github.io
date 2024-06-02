@@ -34,13 +34,13 @@ sections:
     content:
       title: Reach Out
       text: If you want to collaborate or need my services 😃
-    primary_action:
-      text: Email me
-      url: 'mailto:sasinhe@gmail.com'
-      icon: envelope
-    secondary_action:
-      text: See my work
-      url: https://github.com/sasinhe/
+      primary_action:
+        text: Email me
+        url: 'mailto:sasinhe@gmail.com'
+        icon: envelope
+      secondary_action:
+        text: See my work
+        url: https://github.com/sasinhe/
   - block: collection
     content:
       title: Recent Publications
