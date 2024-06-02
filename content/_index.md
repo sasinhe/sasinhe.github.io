@@ -31,9 +31,9 @@ sections:
           position: center
           parallax: false
   - block: hero
-  content:
-    title: Reach Out
-    text: If you want to collaborate or need my services 😃
+    content:
+      title: Reach Out
+      text: If you want to collaborate or need my services 😃
     primary_action:
       text: Email me
       url: 'mailto:sasinhe@gmail.com'
