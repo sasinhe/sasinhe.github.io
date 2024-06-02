@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Sasa Salmen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sasa
+last_name: Plácido Salmen Hussain
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ⚛️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,56 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergraduate Physics Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Molecular Sciences Course - USP
+    url: https://www.cecm.usp.br/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sasinhe@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/sasinhe
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sasinhe
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/sasa-salmen-a7361b240
+  - icon: academicons/lattes
+    url:  http://lattes.cnpq.br/9543110065244479
+  - icon: academicons/stackoverflow
+    url: https://stackoverflow.com/users/12006578/sasinhe
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Statistical Mechanics
+  - Solid-state Physics
+  - Physics Informed Deep Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: BSc Molecular Sciences
+    institution: University of São Paulo
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 8.2/10
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Included a university level foundation on Biology, Computer Science, Chemistry and Math, further specializing on the full curriculum of a Physics undergraduate course.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Strategy Analyst
+    company_name: Itapeva Credit Recovery
+    company_url: https://www.itapevarec.com.br/
+    company_logo: https://yt3.googleusercontent.com/ytc/AIdro_muQe3OQy3G-m7q3ZNwTcruZgb8GW8jVel1oPqWBosOGQ=s900-c-k-c0x00ffffff-no-rj
+    date_start: 2023-07-01
+    date_end: 2023-09-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Performing A/B tests to measure the performance of outsourced call centers.
+      - Developing and maintaining daily reports in Excel.
+      - Creating SQL queries to automate processes.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
