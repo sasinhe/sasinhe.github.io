@@ -103,7 +103,7 @@ skills:
       - name: Poetry
         description: ''
         percent: 80
-        icon: custom/ped-solid
+        icon: custom/pen-solid
 
 languages:
   - name: English
@@ -120,7 +120,7 @@ awards:
     url: https://achievements.eicom.org/9231e03d-e9df-41bf-9428-b54a6e09fb74
     date: '2024-05-03'
     awarder: EICOM Institute
-    icon: 'EICOM-Logo Main Application'
+    icon: EICOM-Logo Main Application
     summary: |
       CMX Candidates Level 1 are able to speak and understand the global language of commerce management, including:
 
