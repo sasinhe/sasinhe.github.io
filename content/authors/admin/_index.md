@@ -87,7 +87,7 @@ skills:
       - name: Computational Statistical Mechanics
         description: ''
         percent: 60
-        icon: custom/temperature-high-solid.svg
+        icon: custom/temperature-high-solid
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -95,15 +95,15 @@ skills:
       - name: Tabletop RPG
         description: ''
         percent: 100
-        icon: custom/dice-d20-solid.svg
+        icon: custom/dice-d20-solid
       - name: Retro Gaming
         description: ''
         percent: 60
-        icon: custom/gamepad-solid.svg
+        icon: custom/gamepad-solid
       - name: Poetry
         description: ''
         percent: 80
-        icon: custom/ped-solid.svg
+        icon: custom/ped-solid
 
 languages:
   - name: English
@@ -115,7 +115,19 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
+awards:
+  - title: Commerce Management Certification level 1
+    url: https://achievements.eicom.org/9231e03d-e9df-41bf-9428-b54a6e09fb74
+    date: '2024-05-03'
+    awarder: EICOM Institute
+    icon: 'EICOM-Logo Main Application'
+    summary: |
+      CMX Candidates Level 1 are able to speak and understand the global language of commerce management, including:
+
+      1. Display understanding of foundations of commerce.
+      2. Articulate definition of key concepts and commerce terminology.
+      3. Understand the importance of all knowledge dimensions for commerce operations.
+      
 #   - title: Neural Networks and Deep Learning
 #     url: https://www.coursera.org/learn/neural-networks-deep-learning
 #     date: '2023-11-25'
@@ -123,18 +135,6 @@ languages:
 #     icon: coursera
 #     summary: |
 #       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Commerce Management Certification level 1
-    url: https://achievements.eicom.org/9231e03d-e9df-41bf-9428-b54a6e09fb74
-    date: '2024-05-03'
-    awarder: EICOM Institute
-    icon: 'EICOM-Logo Main Application.svg'
-    summary: |
-      CMX Candidates Level 1 are able to speak and understand the global language of commerce management, including:
-
-      1. Display understanding of foundations of commerce.
-      2. Articulate definition of key concepts and commerce terminology.
-      3. Understand the importance of all knowledge dimensions for commerce operations.
-
 #   - title: 'Object-Oriented Programming in R'
 #     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 #     certificate_url: https://www.datacamp.com
